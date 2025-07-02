@@ -39,6 +39,14 @@ body {
 .navbar-center {
     color: #08f308;
 }
+.centrals {
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    position: relative;
+    left: 25%;
+    top: 25%;
+}
 
 .navlink {
     text-decoration: none;
